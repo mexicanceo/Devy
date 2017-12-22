@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+/*
+this are my general styles
+*/
+
+body{
+	background-color: aqua;
+}
+
+header{
+    background-color: #ABC;
+}
+
+nav{ 
+    background-color:blueviolet;
+}
+
+aside{
+    background-color:darkorange;
+    float: left;
+    height: 1500px;
+    width: 235px;
+}
+section{
+    background-color: aqua;   
+    font-style: italic;
+    font-family: cursive;
+    margin-left: 250px;
+}
+footer{
+  background-color:#F0F;
+  margin-left: auto;
+}
+li{
+	background-color: #FF0;
+	display: inline;
+}
+
+/*
+This are my custom styles using IDS
+*/
+#licenses{
+	clear: both;
+	margin-top: 30px;
+}
+
+#products{
+    background-color: green;
+}
+#lateralbar{
+background-color: #0F0;
+}
